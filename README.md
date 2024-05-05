@@ -17,11 +17,15 @@ Before you can run this project, you need to have Node.js and npm (Node Package 
 To get this project running on your local machine, follow these steps:
 
 1. **Clone the repository:**
+
    git@github.com:shroomssV0/InjectionFiestaRedThread.git
 
-3. Install dependencies:
+2. Install dependencies:
 
 npm install
 3. Start the project
+
+
+
 npm run dev
 Open http://localhost:3000 with your browser to see the result.
